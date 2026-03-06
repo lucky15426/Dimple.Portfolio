@@ -96,7 +96,7 @@ const shapeStyle = (bg, size, top, right, bottom, left) => ({
 const contentStyle = { position: 'relative', zIndex: 1 };
 const photoContainerStyle = { marginBottom: '28px' };
 const ringStyle = {
-    width: '250px', height: '280px', margin: '0 auto',
+    width: '280px', height: '280px', margin: '0 auto',
     borderRadius: '50%', padding: '4px',
     background: 'linear-gradient(135deg, #c48b9f, #e8c4d4, #d4a0b0)'
 };
