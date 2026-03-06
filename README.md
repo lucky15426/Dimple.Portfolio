@@ -26,11 +26,7 @@ Graphic Designer & Video Editor Portfolio built with React, Vite, and Framer Mot
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/dimple-portfolio.git
-   cd dimple-portfolio
-   ```
+1. Clone the repository
 
 2. Install dependencies:
    ```bash
