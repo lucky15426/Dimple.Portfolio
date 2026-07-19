@@ -18,6 +18,7 @@ import {
 const Skills = () => {
     const technicalSkills = [
         { name: 'Canva Pro', icon: <Monitor size={16} /> },
+        { name: 'Figma', icon: <PenTool size={16} /> },
         { name: 'Inshot', icon: <Video size={16} /> },
         { name: 'VN Editor', icon: <Video size={16} /> },
         { name: 'Capcut', icon: <Video size={16} /> },

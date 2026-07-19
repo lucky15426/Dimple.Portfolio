@@ -54,10 +54,10 @@ const Hero = () => {
 
                 <div className="hero-buttons" style={btnGroupStyle}>
                     <a href="#portfolio" className="btn btn-outline">See My Work</a>
-                    <a 
-                        href="https://drive.google.com/file/d/1KYYYj0tsjcwHDBwHXX0TeYJ89M5WHukO/view?usp=sharing" 
-                        target="_blank" 
-                        rel="noopener noreferrer" 
+                    <a
+                        href="https://drive.google.com/file/d/1FlwoUCpOagY617EsJDoyALBOG1_lB0PB/view?usp=drivesdk"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="btn btn-outline"
                     >
                         <FileText size={18} /> View Resume
